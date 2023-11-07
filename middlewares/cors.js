@@ -1,4 +1,6 @@
 const allowedCors = [
+  'http://api.romzes2f.nomoredomainsmonster.ru',
+  'https://api.romzes2f.nomoredomainsmonster.ru',
   'http://localhost:3000',
   'https://localhost:3000',
 ];
